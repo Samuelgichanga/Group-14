@@ -50,11 +50,11 @@ Our ARIMA model performed relatively well with mean squared errors of as low as 
 ## Conclusion
 The model predictions were useful in this contexts:
 
-+ Consistency in Gasoline Price Trends: The analysis reveals a consistent and parallel trend in gasoline prices across all cities under consideration. This suggests that external factors affecting gasoline prices, such as global market trends, economic conditions, or geopolitical events, have a uniform impact on retail prices in these cities.
++ Consistency in Gasoline Price Trends: The analysis reveals a consistent and parallel trend in gasoline prices across all cities under consideration. This suggests that external factors affecting gasoline prices,  have a uniform impact on retail prices in these cities.
 
-+ Common Influencing Factors:The observed similarity in trends implies that there are factors influencing gasoline prices that affect all cities simultaneously. These could include macroeconomic indicators, changes in oil prices, or government policies that uniformly impact the retail pricing structure across different regions.
-
-+ Global Market Dynamics: The uniform trend in gasoline prices may be indicative of the interconnectedness of global markets. Fluctuations in international oil prices and market dynamics seem to propagate uniformly, impacting the retail prices of gasoline in various cities.
++ we observed Common Influencing Factors:The observed similarity in trends implies that there are factors influencing gasoline prices that affect all cities simultaneously.
+  
++ Global Market Dynamics: The uniform trend in gasoline prices is indicative of the interconnectedness of global markets. Fluctuations in international oil prices and market dynamics seem to propagate uniformly, impacting the retail prices of gasoline in various cities.
 
 + Economic Implications: Understanding the consistent trend in gasoline prices across cities can have implications for economic forecasting and policy planning. Decision-makers can use this information to anticipate the potential effects of global economic changes on local economies and consumer behavior related to fuel consumption.
 
