@@ -28,21 +28,21 @@ Our ARIMA model performed relatively well with mean squared errors of as low as 
   
 
 
- City:      New york state  ,               mse:    0.0251  ,              Best order:   (2,0,2)
+   City:      New york state  ,               mse:    0.0251  ,              Best order:   (2,0,2)
      
- City:      Albany  ,                       mse:    0.0255  ,              Best order:   (2,0,2)
+   City:      Albany  ,                       mse:    0.0255  ,              Best order:   (2,0,2)
 
- City:      Binghamtom   ,                  mse:    0.0259   ,             Best order:   (2,0,2)
+   City:      Binghamtom   ,                  mse:    0.0259   ,             Best order:   (2,0,2)
 
-  City:     Buffalo    ,                    mse:    0.0244   ,             Best order:    (2,0,0)
+   City:     Buffalo    ,                    mse:    0.0244   ,             Best order:    (2,0,0)
 
-  City:     Nassau    ,                     mse:    0.0311    ,           Best order:    (2,0,2)
+   City:     Nassau    ,                     mse:    0.0311    ,           Best order:    (2,0,2)
      
-  City:     New york city   ,               mse:    0.0281    ,           Best order:     (2,0,2)
+   City:     New york city   ,               mse:    0.0281    ,           Best order:     (2,0,2)
 
-  City:     Rochester    ,                  mse:    0.0236    ,           Best order:     (2,0,2)
+   City:     Rochester    ,                  mse:    0.0236    ,           Best order:     (2,0,2)
 
-  City:     Syracuse    ,                   mse:   0.0265      ,          Best order:    (2,0,1)
+   City:     Syracuse    ,                   mse:   0.0265      ,          Best order:    (2,0,1)
 
    City:    Utica       ,                   mse:   0.0233       ,         Best order:     (2,0,2)
      
