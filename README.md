@@ -1,17 +1,16 @@
 
 # Time Series Analysis of Gasoline Weekly Retail Prices
 
-
+By: Annette Kalekye|Eric Njeru | Samuel Gichanga
 
 ## Project Overview
 
-This projects aims to uncover patterns in historical pricing data for gasoline business stakeholders.To assist in stretegic decidion making, optimizing pricing startegies for energy-related businesses, and contribute to effective polic making related to energy efficiency, sustnainability and economic statbility in gasoline prices.
+The gasoline service providers desire to make investment in Newyork city and the citis around newyork, they are not sure which city to invest in and which not to. This projects aims to uncover patterns in historical pricing data for gasoline business stakeholders.To assist in stretegic decidion making, optimizing pricing startegies for energy-related businesses, and contribute to effective polic making related to energy efficiency, sustnainability and economic statbility in gasoline prices.
 
 
 ### Business Problem
 
 +  Which is the best city for gasoline service providers to invest to invest in?
-+ What are the trends in gasoline prices in different cities?
 
 
 
@@ -48,6 +47,8 @@ Our ARIMA model performed relatively well with mean squared errors of as low as 
      
    
 ## Conclusion
+To answer the Business question, the gasoline service providers could invest in any city because the trends are the same and even the forecasted future trends are the same for all cities there is no advantage of investing one city over the other.
+
 The model predictions were useful in this contexts:
 
 + Consistency in Gasoline Price Trends: The analysis reveals a consistent and parallel trend in gasoline prices across all cities under consideration. This suggests that external factors affecting gasoline prices,  have a uniform impact on retail prices in these cities.
