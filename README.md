@@ -5,25 +5,28 @@ By: Annette Kalekye|Eric Njeru | Samuel Gichanga
 
 ## Project Overview
 
-The gasoline service providers desire to make investment in Newyork city and the citis around newyork, they are not sure which city to invest in and which not to. This projects aims to uncover patterns in historical pricing data for gasoline business stakeholders.To assist in stretegic decidion making, optimizing pricing startegies for energy-related businesses, and contribute to effective polic making related to energy efficiency, sustnainability and economic statbility in gasoline prices.
+The gasoline service providers desire to invest in York City and the cities around New York, but they are not sure which city to invest in and which not to. This project aims to uncover patterns in historical pricing data for gasoline business stakeholders. To assist in strategic decision-making, optimize pricing strategies for energy-related businesses, and contribute to effective policy making related to energy efficiency, sustainability, and economic stability in gasoline prices.
 
 
 ### Business Problem
 
-+  Which is the best city for gasoline service providers to invest to invest in?
++  Gasoline service providers aim to optimize their investments and expand their services in cities with promising opportunities. To make informed decisions, it is crucial to identify the most lucrative city for investment and understand the trends in gasoline prices across different cities. The business problem encompasses selecting the optimal location for expansion and gaining insights into the variations and patterns of gasoline prices over time.
 
++ Key Question:
+
+Which is the best cities for gasoline service providers to invest in?
 
 
 ### The Data
 
 The data was collected from the American Automobile Association (AAA) Daily Fuel Gauge Report, the data spans from October 2007 to November 2023, with varying start dates for some regions.
 
-We utilized data from these columns: New york state, albany, Binghamtom, Buffalo, Nassau, New york City, Rochester, Syracuse, Utica
+We utilized data from these columns: New York State, Albany, Binghamton, Buffalo, Nassau, New York City, Rochester, Syracuse, Utica
 
 ## Modeling
 
 + We employed the ARIMA model to fit our data, which includes training the model on historical time series data to capture patterns and relationships.
-Our ARIMA model performed relatively well with mean squared errors of as low as 0.0233 t0 0.0311 accross the cities as shown below
+Our ARIMA model performed relatively well with mean squared errors of as low as 0.0233 t0 0.0311 across the cities as shown below
   
 
 
@@ -47,19 +50,19 @@ Our ARIMA model performed relatively well with mean squared errors of as low as 
      
    
 ## Conclusion
-To answer the Business question, the gasoline service providers could invest in any city because the trends are the same and even the forecasted future trends are the same for all cities there is no advantage of investing one city over the other.
+To answer the Business question, the gasoline service providers could invest in any city because the trends are the same and even the forecasted future trends are the same for all cities there is no advantage of investing in one city over the other.
 
-The model predictions were useful in this contexts:
+The model predictions were useful in this context:
 
-+ Consistency in Gasoline Price Trends: The analysis reveals a consistent and parallel trend in gasoline prices across all cities under consideration. This suggests that external factors affecting gasoline prices,  have a uniform impact on retail prices in these cities.
++ Consistency in Gasoline Price Trends: The analysis reveals a consistent and parallel trend in gasoline prices across all cities under consideration. This suggests that external factors affecting gasoline prices  have a uniform impact on retail prices in these cities.
 
-+ we observed Common Influencing Factors:The observed similarity in trends implies that there are factors influencing gasoline prices that affect all cities simultaneously.
++ We observed Common Influencing Factors: The observed similarity in trends implies that there are factors influencing gasoline prices that affect all cities simultaneously.
   
 + Global Market Dynamics: The uniform trend in gasoline prices is indicative of the interconnectedness of global markets. Fluctuations in international oil prices and market dynamics seem to propagate uniformly, impacting the retail prices of gasoline in various cities.
 
 + Economic Implications: Understanding the consistent trend in gasoline prices across cities can have implications for economic forecasting and policy planning. Decision-makers can use this information to anticipate the potential effects of global economic changes on local economies and consumer behavior related to fuel consumption.
 
-+ Consumer Behavior and Sensitivity:The uniformity in gasoline price trends reflect a shared sensitivity among consumers in different cities to changes in fuel costs. This insight could be valuable for businesses, policymakers, and researchers studying consumer behavior and preferences related to energy expenditures.
++ Consumer Behavior and Sensitivity: The uniformity in gasoline price trends reflects a shared sensitivity among consumers in different cities to changes in fuel costs. This insight could be valuable for businesses, policymakers, and researchers studying consumer behavior and preferences related to energy expenditures.
 
 ## Recommendations
 
